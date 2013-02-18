@@ -10,5 +10,6 @@
 		"qwery": "3.4.1",
 		"q": "0.8.12"
 	},
-	"main": "sender.js"
+	"main": "sender.js",
+	"engines": { "node": "*" }
 }
