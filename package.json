@@ -1,8 +1,8 @@
 {
-	"name": "sender"
+	"name": "sender",
 	"version": "0.0.1",
 	"description": "browser utility",
-	"author": "Rai Phairow <rai.phairow@gmail.com>,
+	"author": "Rai Phairow <rai.phairow@gmail.com>",
 	"dependencies": {
 		"bean": "1.0.3",
 		"bonzo": "1.3.4",
